@@ -40,40 +40,6 @@ The following are principles I recommend. If you disagree with these,
 would like to propose changes to the wording, or would like to propose
 others, feel free to open an issue or pull request on this repository.
 
-### Don't take it personally
-
-We often become personally invested in our software. We dedicate huge
-amounts of time, both personal and professional, to making it
-succeed. It can sometimes be difficult to hear criticism of our
-software.
-
-However, technical discussions will ultimately include some such
-criticism. Don't take it personally! Many of the points below try to
-help this become a reality.
-
-### Don't make it personal
-
-A corollary to the above: don't _make_ it personal. When discussing a
-technical topic, there is rare&mdash;if ever&mdash;good reason to
-implicate negative attributes to the author. Indicating that the
-author is unintelligent, implying nefarious motives, or similar
-comments brings the discussion down from technical to personal.
-
-_If_ the other side in a discussion makes it personal, my
-recommendation: immediately point it out as such, with a link to this
-section.
-
-### Respect privacy
-
-Some topics are best discussed publicly. Others may be well handled
-privately. If you believe you are in the latter category, send a
-private message requesting the other side participate privately. If
-agreed to, somewhat obviously, **do not** violate that agreement!
-
-That said, private communications can be used as a method of private
-attacks and intimidation. As such, communications can only reasonably
-be considered private if both sides agree.
-
 ### Avoid ad hominems
 
 Do not discredit someone's technical work or discussions based on who
@@ -153,22 +119,6 @@ citizens, in exactly the same way as Yesod or Conduit.
 Said another way: a decision to opt in to one piece of the toolchain
 should be orthogonal to any other decisions.
 
-### Respect others' time
-
-This is covered in depth in the "prior art" links above. Most people
-are interacting with the Stack community in their free time. Companies
-that support development of tooling are spending funds they could be
-using for non-community activities. We should respect these
-contributions.
-
-On the other hand, for users and consumers of the technology, we
-should wherever possible try to make life as easy as we can. Avoid
-creating blockers for people if you can. Recognize differences in goals and see if
-they can be addressed. Be aware that it may _not_ be possible to
-address these differences. Be explicit about your intentions so people
-can make decisions on how they wish to proceed with achieving their
-goals.
-
 ### Avoid derailing discussions
 
 Keep discussions on topic. If there's an issue about X, do not
@@ -197,3 +147,53 @@ with. They may be unaware that you're uncomfortable. They may be more
 sensitive to your feelings if expressed privately and calmly. Again,
 you cannot _demand_ such a change, but a polite request is
 reasonable.
+
+### Don't take it personally
+
+We often become personally invested in our software. We dedicate huge
+amounts of time, both personal and professional, to making it
+succeed. It can sometimes be difficult to hear criticism of our
+software.
+
+However, technical discussions will ultimately include some such
+criticism. Don't take it personally! Many of the points below try to
+help this become a reality.
+
+### Don't make it personal
+
+A corollary to the above: don't _make_ it personal. When discussing a
+technical topic, there is rare&mdash;if ever&mdash;good reason to
+implicate negative attributes to the author. Indicating that the
+author is unintelligent, implying nefarious motives, or similar
+comments brings the discussion down from technical to personal.
+
+_If_ the other side in a discussion makes it personal, my
+recommendation: immediately point it out as such, with a link to this
+section.
+
+### Respect privacy
+
+Some topics are best discussed publicly. Others may be well handled
+privately. If you believe you are in the latter category, send a
+private message requesting the other side participate privately. If
+agreed to, somewhat obviously, **do not** violate that agreement!
+
+That said, private communications can be used as a method of private
+attacks and intimidation. As such, communications can only reasonably
+be considered private if both sides agree.
+
+### Respect others' time
+
+This is covered in depth in the "prior art" links above. Most people
+are interacting with the Stack community in their free time. Companies
+that support development of tooling are spending funds they could be
+using for non-community activities. We should respect these
+contributions.
+
+On the other hand, for users and consumers of the technology, we
+should wherever possible try to make life as easy as we can. Avoid
+creating blockers for people if you can. Recognize differences in goals and see if
+they can be addressed. Be aware that it may _not_ be possible to
+address these differences. Be explicit about your intentions so people
+can make decisions on how they wish to proceed with achieving their
+goals.
