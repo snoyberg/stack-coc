@@ -1,5 +1,7 @@
 # Unofficial Stack Code of Conduct
 
+[![Join the chat at https://gitter.im/stack-coc/Lobby](https://badges.gitter.im/stack-coc/Lobby.svg)](https://gitter.im/stack-coc/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Unofficial, work in progress: Stack Code of Conduct.
 
 For more information on motivation and goals, please see the
