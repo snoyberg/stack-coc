@@ -44,7 +44,7 @@ others, feel free to open an issue or pull request on this repository.
 
 We often become personally invested in our software. We dedicate huge
 amounts of time, both personal and professional, to making it
-succeed. It can sometimes be difficult to hear criticism of this
+succeed. It can sometimes be difficult to hear criticism of our
 software.
 
 However, technical discussions will ultimately include some such
@@ -139,9 +139,10 @@ does not integrate with other projects.
 Much of how Stack has been designed is in fact along these lines:
 
 * The Stackage project is separate, and is usable by both Nix and (to
-  some extent) cabal-install
+  some extent) cabal-install (the build tool)
 * Hackage remains the upstream repository
-* Cabal remains the underlying build system
+* Cabal (the library, file format, and build system) remain the
+  underlying mechanism for representing and building packages
 
 Broadening this a bit: I (Michael) am one of the original authors of
 Stack. I'm also the original author of Yesod and Conduit. It is
