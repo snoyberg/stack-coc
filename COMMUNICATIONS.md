@@ -1,3 +1,3 @@
 # Recommended Communications Guide
 
-Not yet ready, pull request will be incoming.
+Stub document, see pull request https://github.com/snoyberg/stack-coc/pull/3
