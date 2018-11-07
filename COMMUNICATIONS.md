@@ -87,7 +87,7 @@ forms:
   are inherently biased.
 
 A related topic is the pattern of behavior argument. "Person X has
-done A, B, and C, therefore D must have a similar motivation." That's
+done A, B, and C, therefore when X does D it must have a similar motivation." That's
 _also_ not appropriate for public discussion.
 
 There's no way to prevent these associations from forming in your
@@ -119,7 +119,7 @@ broad, including:
 * Ease of use
 * Marketability
 
-I believe that last one may be a surprise to many. I want to make the
+I believe the last one may be a surprise to many, so I want to make the
 argument for that specifically. The best software is useless (by
 definition) if no one uses it. Making an argument for a feature so
 that it is easier to encourage the use of some software is perfectly
@@ -141,12 +141,12 @@ Much of how Stack has been designed is in fact along these lines:
 * The Stackage project is separate, and is usable by both Nix and (to
   some extent) cabal-install (the build tool)
 * Hackage remains the upstream repository
-* Cabal (the library, file format, and build system) remain the
+* Cabal (the library, file format, and build system) remains the
   underlying mechanism for representing and building packages
 
 Broadening this a bit: I (Michael) am one of the original authors of
 Stack. I'm also the original author of Yesod and Conduit. It is
-absolutely vital that Stack treat other web frameworks (like Servant)
+absolutely vital that Stack treats other web frameworks (like Servant)
 or streaming data libraries (like Pipes or Streaming) as first class
 citizens, in exactly the same way as Yesod or Conduit.
 
@@ -163,7 +163,7 @@ contributions.
 
 On the other hand, for users and consumers of the technology, we
 should wherever possible try to make life as easy as we can. Avoid
-blocking people if you can. Recognize differences in goals and see if
+creating blockers for people if you can. Recognize differences in goals and see if
 they can be addressed. Be aware that it may _not_ be possible to
 address these differences. Be explicit about your intentions so people
 can make decisions on how they wish to proceed with achieving their
@@ -179,7 +179,7 @@ to force others to comply with your viewpoint.
 
 ### Don't demand changes from others
 
-These guidelines are non binding. No one has the right to point at
+These guidelines are non-binding. No one has the right to point at
 them and demand that some arbitrary other person comply with
 them. That is not the purpose of this document. This rule extends: you
 cannot demand that others behave in a way you want, or perform
@@ -195,5 +195,5 @@ If you feel comfortable with doing so, in some cases a private message
 to the other party can help resolve a situation you're unhappy
 with. They may be unaware that you're uncomfortable. They may be more
 sensitive to your feelings if expressed privately and calmly. Again,
-you may not _demand_ such a change, but a polite request is
+you cannot _demand_ such a change, but a polite request is
 reasonable.
