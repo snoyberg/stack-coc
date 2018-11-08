@@ -18,3 +18,30 @@ on the files in this repo.
 * [Recommended communications guide](COMMUNICATIONS.md)
 * [Participants](PARTICIPANTS.md)
 * [License](LICENSE) (MIT)
+
+## Scope
+
+This repo is explicitly an unofficial part of the Stack community. An
+official policy would need to be approved by the full Stack team. Such
+a policy could then have enforcement that includes excluding people
+from repositories, mailing lists, and other official community
+resources. I will not conceit to make such decisions unilaterally.
+
+My goal here is different. I am trying to establish some accepted
+standards for behavior of the Stack community in general. I am hoping
+for this to be broader than just official communication channels. I'm
+going to encourage improved communications across all mediums.
+
+But I have no right to demand this of anyone, especially in general
+communications. Therefore this repository serves primarily to document
+how I believe people should act in the Stack community.
+
+As I have done in the past, I will be available for people to
+privately express concerns about the behaviors of others, in keeping
+with the CoC. And while I will not make unilateral decisions on behalf
+of the Stack leadership, I will, as necessary:
+
+* Reach out privately to request changes in behavior
+* Publicly request changes in behavior
+* Raise the issue with the rest of the Stack leadership and consider a
+  more official response
