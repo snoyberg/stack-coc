@@ -162,7 +162,7 @@ help this become a reality.
 ### Don't make it personal
 
 A corollary to the above: don't _make_ it personal. When discussing a
-technical topic, there is rare&mdash;if ever&mdash;good reason to
+technical topic, there is rarely&mdash;if ever&mdash;good reason to
 implicate negative attributes to the author. Indicating that the
 author is unintelligent, implying nefarious motives, or similar
 comments brings the discussion down from technical to personal.
