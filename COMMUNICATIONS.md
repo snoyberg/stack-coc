@@ -26,6 +26,8 @@ This document is intended to:
 
 ## Prior art
 
+GNU has put out a wonderful [GNU Kind Communications Guide](https://www.gnu.org/philosophy/kind-communication.html). At the time of linking, I see nothing I disagree with, and would encourage following its points (with relevant adaptations, such as "subject" being email specific). The points below intend to focus on specific issues I've seen in the Stack community.
+
 Some related documents I've written in the past are tangentially
 related:
 
