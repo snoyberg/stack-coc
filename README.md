@@ -67,7 +67,7 @@ Instead, the Code of Conduct can be stated as:
   behavior. I will strive in general to handle matters with care, and
   prefer corrective recommendations to punitive actions.
 * There is inherently some ambiguity in some cases as to whether
-  behavior is in fact offensive. I will attempt personally, and
+  behavior is in fact uncivil or disrespectful. I will attempt personally, and
   request from others, to give participants the benefit of the
   doubt. This benefit of the doubt must be balanced against protecting
   the rights and desires of those participating in discussion with
